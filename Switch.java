@@ -1,7 +1,7 @@
 public class Switch {
     public static void main(String a[])
     {
-        int n = 4 ;
+        int n = 5 ;
 // The moment switch maches with case it will execute everything after the match statement , Other wise we need to use break statement
         switch(n){
             case 1:
